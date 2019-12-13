@@ -1,5 +1,13 @@
 NCUE Brain GO 是彰師大針對BrainGO控制版開發於 mBlock中使用的擴充套件。
 
+使用方法：
+1.下載NCUE Brain GO.zip檔。
+2.開啟mBlock。
+3.擴充/擴展管理器/添加擴展。
+4.檔案格式改選zip file/選擇NCUE Brain GO.zip
+5.按[開啟],關閉擴展管理器。
+6.完成後就可以在擴充內看到NCUE Brain GO。
+
 20191211版，由聖順新增了：
 1.指紋辨識模組 GTM-5210F32 專用積木。
 2.RGB LED模組  HT45F0062 專用積木。
